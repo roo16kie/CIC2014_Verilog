@@ -1,0 +1,15 @@
+{C:/Users/user/Desktop/pregraduate/IC training/2014/RTL_grad_Exercise/STI_DAC.v} {1 {vlog -work work -stats=none {C:/Users/user/Desktop/pregraduate/IC training/2014/RTL_grad_Exercise/STI_DAC.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module STI_DAC
+
+Top level modules:
+	STI_DAC
+
+} {} {}} {C:/Users/user/Desktop/pregraduate/IC training/2014/RTL_grad_Exercise/testfixture1.v} {1 {vlog -work work -stats=none {C:/Users/user/Desktop/pregraduate/IC training/2014/RTL_grad_Exercise/testfixture1.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module testfixture1
+
+Top level modules:
+	testfixture1
+
+} {} {}}

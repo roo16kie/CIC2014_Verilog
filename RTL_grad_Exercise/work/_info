@@ -1,0 +1,53 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+vSTI_DAC
+Z0 !s110 1549294145
+!i10b 1
+!s100 WRDOgjLA72E:Z5>0FP3eb2
+IUb9Q?j7`H<hOM=HfX:Tmk3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/user/Desktop/pregraduate/IC training/2014/RTL_grad_Exercise
+w1549294130
+8C:/Users/user/Desktop/pregraduate/IC training/2014/RTL_grad_Exercise/STI_DAC.v
+FC:/Users/user/Desktop/pregraduate/IC training/2014/RTL_grad_Exercise/STI_DAC.v
+L0 1
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1549294145.000000
+!s107 C:/Users/user/Desktop/pregraduate/IC training/2014/RTL_grad_Exercise/STI_DAC.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/pregraduate/IC training/2014/RTL_grad_Exercise/STI_DAC.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@s@t@i_@d@a@c
+vtestfixture1
+R0
+!i10b 1
+!s100 Cj[8nIL;P6BSR`SMNA^gR3
+IJbm?do4GOoCcL:L=oQUAC0
+R1
+R2
+w1394785399
+8C:/Users/user/Desktop/pregraduate/IC training/2014/RTL_grad_Exercise/testfixture1.v
+FC:/Users/user/Desktop/pregraduate/IC training/2014/RTL_grad_Exercise/testfixture1.v
+L0 6
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/user/Desktop/pregraduate/IC training/2014/RTL_grad_Exercise/testfixture1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/pregraduate/IC training/2014/RTL_grad_Exercise/testfixture1.v|
+!s101 -O0
+!i113 1
+R5
